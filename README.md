@@ -4,7 +4,7 @@ A full‑stack voucher redemption platform built with the MERN stack. Users can 
 
 **Features
 
-  ** User**
+  **User**
 Browse vouchers by category with image thumbnails and detail views
 Redeem vouchers (respecting limits/expiry)
 Google OAuth sign‑in
