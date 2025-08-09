@@ -2,8 +2,7 @@
 
 A full‑stack voucher redemption platform built with the MERN stack. Users can browse and redeem vouchers; Admins can manage vouchers and view analytics. The app features curated high‑quality voucher images, modern PrimeReact UI, and an integrated Gemini chatbot.
 
-**Features
-
+**Features**
   **User**
 Browse vouchers by category with image thumbnails and detail views
 Redeem vouchers (respecting limits/expiry)
@@ -59,6 +58,7 @@ GeminiChatbot.js
 )
 
 **Environment Variables**
+
 Create .env files in backend/ and frontend/ (do not commit).
 
 backend/.env
