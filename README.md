@@ -42,6 +42,7 @@ AI:
 Gemini (gemini-2.0-flash) via backend proxy route
 
 📂 Monorepo Structure
+
 bash
 Copy
 Edit
